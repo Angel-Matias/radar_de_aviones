@@ -1,7 +1,0 @@
-services:
-  - type: web
-    name: radar-de-aviones
-    env: python
-    plan: free
-    buildCommand: ""
-    startCommand: python radar_de_aviones.py
